@@ -9,7 +9,7 @@ BRP069A42/43/45/81 -> Variants of BRP069A41 controller with differenct wire harn
 
 *Also applied to BRP069B41 (Europe), BRP072A42/BRP072B42/BRP072C42 (Asia)
 
-It is possible to build wire harness by yourself in case like some variant is not available in your country or you want to swap controller between Daikin devices. Moreover, x41 model is a lot cheaper, like a half price of x81 model.
+It is possible to build wire harness by yourself in case like some variant is not available in your country or you want to swap controller between Daikin devices. Also, x41 controller only varaint price is half of other varaints.
 
 
 ## A81
@@ -20,7 +20,7 @@ Original A81 wire harness for use with Daikin Sky Air device
 Cable and Header pin mapping
 ![cable_header_pin_mapping](https://user-images.githubusercontent.com/44964969/62939571-d1741f00-bdfb-11e9-96ac-6f0fe0eacfc7.jpg)
 
-JST Connector part number.
+JST Connector part number
 ![jst_part_number](https://user-images.githubusercontent.com/44964969/62939597-d9cc5a00-bdfb-11e9-9e97-085322eea2e1.jpg)
 
 ## Instruction
@@ -28,7 +28,7 @@ JST Connector part number.
 1. Find a varaint your need for your device by reading Installation Manual from http://www.onlinecontroller.daikineurope.com/ . Also open your Daikin unit and check that it actually has appropiated socket (like S21) on board.
 2. Order JST connectors parts. I use https://lcsc.com/
 3. Order JST crimp tool. I recommend one that has multiple sizes like 0.25mm/0.5mm/1.0mm since each header in wire harness has different size.
-4. If your device board doesn't has socket but has circuit at that position, it MIGHT be possible to soldering socket onto board. For example, I soldering X50A socket onto board and BRP069A41 works. However, you need surface mounted soldering tool.
+4. If your device board doesn't has socket but has circuit at that position, it MIGHT be possible to soldering socket onto board. For example, I soldering X50A socket onto board and use BRP069A41 with customs cable and it works. However, you need surface mounted soldering tool.
 
 ![x50a_socket_position](https://user-images.githubusercontent.com/44964969/62941229-c4f1c580-bdff-11e9-98b8-2ec45b25d760.jpg)
 
