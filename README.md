@@ -4,9 +4,10 @@ Daikin Online/Mobile Controller Wire Harness
 Daikin Online Controller (Europe) or Daikin Mobile Controller (Asia) is an adapter to bridge Daikin device to WiFi/Internet. It consists of 2 parts, a controller and wire harness for various models. For example:
 
 BRP069A41 -> Controller Only
+
 BRP069A42/43/45/81 -> Variants of BRP069A41 controller with differenct wire harness.
 
-Also applied to BRP069B41 (Europe), BRP072A42/BRP072B42/BRP072C42 (Asia)
+*Also applied to BRP069B41 (Europe), BRP072A42/BRP072B42/BRP072C42 (Asia)
 
 It is possible to build wire harness by yourself in case like some variant is not available in your country or you want to swap controller between Daikin devices. Moreover, x41 model is a lot cheaper, like a half price of x81 model.
 
